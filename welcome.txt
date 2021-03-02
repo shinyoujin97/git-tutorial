@@ -1,1 +1,6 @@
-# git-tutorial
+hello
+world
+아 겁나 어렵네 
+개빡치네
+예민하네
+화나네
